@@ -1,0 +1,27 @@
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\pc-10\documents\visual studio 2015\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+E:\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+E:\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+E:\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+E:\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.AssemblyReference.cache
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.cache
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.CoreCompileInputs.cache
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+E:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+D:\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+D:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
